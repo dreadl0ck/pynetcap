@@ -3,7 +3,8 @@
 Read *Netcap* audit records from Python!
 
 Currently it is possible to retrieve the audit records as python dictionary:
-```
+
+```python
 #!/usr/bin/python
 
 import pynetcap as nc
